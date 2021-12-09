@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm SiadSec</h1>
 <h3 align="center">A passionate Ethical Hacker from Bangladesh</h3>
 
@@ -17,13 +15,13 @@
 
 - 📝 I regularly write articles on [https://siadsec.github.io/](https://siadsec.github.io/)
 
-- 💬 Ask me about **Ethical Hacking and penetration testing**
+- 💬 Ask me about **ethical hacking and penetration testing**
 
 - 📫 How to reach me **skysiad.official@gmail.com**
 
 - 📄 Know about my experiences [https://siadsec.github.io/](https://siadsec.github.io/)
 
-- ⚡ Fun fact **White hat hackers earned over $19 million in bounties in 2018**
+- ⚡ Fun fact **white hat hackers earned over $19 million in bounties in 2018**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,4 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siadsec&show_icons=true&locale=en" alt="siadsec" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siadsec&" alt="siadsec" /></p>
-

@@ -1,4 +1,5 @@
 ### Hi 👋, I'm SiadSec
+
 ### A passionate Ethical Hacker from Bangladesh
 
 ![](https://komarev.com/ghpvc/?username=siadsec&label=Profile%20views&color=0e75b6&style=flat)
@@ -23,11 +24,12 @@
 
 <a href="https://dev.to/siadsec"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" /></a>
 <a href="https://twitter.com/siad_sky"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanvir-rayhan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanvir-rayhan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user8275e"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 
 
 ### Languages and Tools:
+
 <a href="https://aws.amazon.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com/en-in/"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a>
@@ -42,6 +44,10 @@
 <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
 <a href="https://www.selenium.dev"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/></a>
 
+### Languages I Use
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siadsec&show_icons=true&locale=en&layout=compact"/>
+
+### My GitHub Stats
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siadsec&"/>
